@@ -2,3 +2,4 @@
 https://www.kaggle.com/datasets/samartalwar/sleep-debt-and-screen-time-late-night-phone-habit
 https://www.kaggle.com/datasets/blixture/global-music-popularity-and-cultural-attention
 https://www.kaggle.com/datasets/thinukakusalmith06/global-superyachts-and-luxury-cruise-spatial-dataset
+https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download
