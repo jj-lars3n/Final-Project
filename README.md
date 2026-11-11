@@ -23,7 +23,7 @@ I also created a new column called total_nights by adding weekend nights and wee
 
 ## Visualizations
 
-### 1. Cancellation Rates by Hotel Type
+#### 1. Cancellation Rates by Hotel Type
 
 My first graph is a bar chart comparing the cancellation rates between city hotels and resort hotels. City Hotels had a cancellation rate of about 41.73% while Resort Hotels had a cancellation rate of about 27.76%.This shows that city hotels had a higher percentage of cancellations.
 
