@@ -7,7 +7,7 @@ For my Python final project I chose a hotel bookings dataset from Kaggle. The da
 
 I wanted to look at the differences between city hotels and resort hotels and see what might affect cancellations. I also wanted to see which months had the most bookings and how far in advance people usually book hotels.
 
-Data Cleaning
+##Data Cleaning
 
 I found missing values in the children, country, agent, and company columns.
 
