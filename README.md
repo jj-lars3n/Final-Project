@@ -27,19 +27,25 @@ I also created a new column called total_nights by adding weekend nights and wee
 
 My first graph is a bar chart comparing the cancellation rates between city hotels and resort hotels. City Hotels had a cancellation rate of about 41.73% while Resort Hotels had a cancellation rate of about 27.76%.This shows that city hotels had a higher percentage of cancellations.
 
+<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/f7100a11-cfec-4b0e-8f55-070e391996a9" />
+
 #### 2. Bookings by Month
 
 My second graph is a bar chart showing how many bookings were made for each arrival month. I wanted to see which months were the busiest and whether there were differences in booking activity throughout the year. The graph shows that some months have a lot more bookings than others.
+
+<img width="1023" height="597" alt="image" src="https://github.com/user-attachments/assets/f8a12095-81f8-4fc0-80d6-fc7005c4e7f5" />
 
 #### 3. Booking Lead Time by Hotel
 
 My third graph is a box plot comparing how far in advance people booked city hotels and resort hotels. I chose a box plot because it makes it easier to compare the spread of booking lead times and see outliers. Both hotel types had some bookings made hundreds of days in advance.
 
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/52f98e33-27f3-4daa-9dcd-0f31bb132ce8" />
+
 ## Statistical Analysis
 
 I calculated the mean, median, and standard deviation for booking lead times.
 
-Mean: 104.01 days
+Mean: 104 days
 
 Median: 69 days
 
