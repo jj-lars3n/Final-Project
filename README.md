@@ -15,7 +15,7 @@ After cleaning I checked again and there were no missing values left.
 
 ## Data Manipulation
 
-I used a few different methods to organize the data and make it easier to analyze. Filtering: I filtered the dataset to only show canceled bookings using is_canceled == 1. Grouping: I used groupby() to calculate the average cancellation rate for each hotel type. Sorting: I used value_counts() to see which countries had the most bookings, sorted from highest to lowest.
+I used a few different methods to organize the data and make it easier to analyze. I filtered the dataset to only show canceled bookings using is_canceled == 1. I used groupby() to calculate the average cancellation rate for each hotel type. I used value_counts() to see which countries had the most bookings, sorted from highest to lowest.
 
 I also created a new column called total_nights by adding weekend nights and weekday nights together.
 
