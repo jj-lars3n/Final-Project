@@ -3,9 +3,7 @@ https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=down
 
 # HOTEL BOOKING ANALYSIS PYTHON FINAL PROJECT
 
-For my Python final project I chose a hotel bookings dataset from Kaggle. The dataset has 119,390 rows and 32 columns with information about hotel reservations, cancellations, hotel types, customers, and booking dates.
-
-I wanted to look at the differences between city hotels and resort hotels and see what might affect cancellations. I also wanted to see which months had the most bookings and how far in advance people usually book hotels.
+About 42% of city hotel bookings in my dataset were canceled compared with about 28% of resort hotel bookings. I checked when guests planned to arrive, how far in advance they booked and how often they canceled. August had the most scheduled arrivings and January had the fewest. City hotel guests also tended to book a tad further ahead. That higher cancellation rate matters because that can mean that even when a hotel has a lot of reservations planned some people might not show up.
 
 ## Data Cleaning
 
@@ -27,19 +25,22 @@ I also created a new column called total_nights by adding weekend nights and wee
 
 My first graph is a bar chart comparing the cancellation rates between city hotels and resort hotels. City Hotels had a cancellation rate of about 41.73% while Resort Hotels had a cancellation rate of about 27.76%.This shows that city hotels had a higher percentage of cancellations.
 
-<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/f7100a11-cfec-4b0e-8f55-070e391996a9" />
+<img width="576" height="457" alt="image" src="https://github.com/user-attachments/assets/bf79bfdb-e5d2-4234-8cc4-c7946918f265" />
+
 
 #### 2. Bookings by Month
 
 My second graph is a bar chart showing how many bookings were made for each arrival month. I wanted to see which months were the busiest and whether there were differences in booking activity throughout the year. The graph shows that some months have a lot more bookings than others.
 
-<img width="1023" height="597" alt="image" src="https://github.com/user-attachments/assets/f8a12095-81f8-4fc0-80d6-fc7005c4e7f5" />
+<img width="1023" height="549" alt="image" src="https://github.com/user-attachments/assets/06f6eaf9-8d49-4f1d-ad7a-484b1924db3d" />
+
 
 #### 3. Booking Lead Time by Hotel
 
 My third graph is a box plot comparing how far in advance people booked city hotels and resort hotels. I chose a box plot because it makes it easier to compare the spread of booking lead times and see outliers. Both hotel types had some bookings made hundreds of days in advance.
 
-<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/52f98e33-27f3-4daa-9dcd-0f31bb132ce8" />
+<img width="850" height="549" alt="image" src="https://github.com/user-attachments/assets/1166b989-417d-43b3-b8ba-ac4dabd474e2" />
+
 
 ## Statistical Analysis
 
