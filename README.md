@@ -1,6 +1,6 @@
 # Final-Project
 https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download
-
+https://colab.research.google.com/drive/1O0SkCPo0hXLPE6rYI4JL7sqBKtsv_-Yu?usp=sharing
 # HOTEL BOOKING ANALYSIS PYTHON FINAL PROJECT
 
 About 42% of city hotel bookings in my dataset were canceled compared with about 28% of resort hotel bookings. I checked when guests planned to arrive, how far in advance they booked and how often they canceled. August had the most scheduled arrivings and January had the fewest. City hotel guests also tended to book a tad further ahead. That higher cancellation rate matters because that can mean that even when a hotel has a lot of reservations planned some people might not show up.
