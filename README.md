@@ -54,7 +54,7 @@ Max: 737 days
 
 Standard Deviation: 106.86 days
 
-The average booking was made about 104 days before arrival, but the median was only 69 days. This suggests that some very early bookings increased the average. I also calculated the correlation between lead time and cancellations. Correlation: 0.293 This is a positive correlation, meaning bookings made further in advance tended to have a higher chance of being canceled. However, the relationship isn't especially strong.
+The average booking was made about 104 days before arrival, but the median was only 69 days. This could maybe suggest that some very early bookings increased the average. I also calculated the correlation between lead time and cancellations. Correlation: 0.293 This is a positive correlation meaning bookings made further in advance tended to have a higher chance of being canceled. But the relationship isn't especially strong.
 
 ## What I Learned
 
