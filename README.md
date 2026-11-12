@@ -50,10 +50,12 @@ Mean: 104 days
 
 Median: 69 days
 
+Max: 737 days
+
 Standard Deviation: 106.86 days
 
 The average booking was made about 104 days before arrival, but the median was only 69 days. This suggests that some very early bookings increased the average. I also calculated the correlation between lead time and cancellations. Correlation: 0.293 This is a positive correlation, meaning bookings made further in advance tended to have a higher chance of being canceled. However, the relationship isn't especially strong.
 
 ## What I Learned
 
-This project helped me practice importing data, cleaning missing values, filtering, grouping, and creating graphs using Python. One of the most interesting things I found was that city hotels had a much higher cancellation rate than resort hotels. I also learned that booking lead time has some relationship with cancellations, and that people sometimes make hotel reservations extremely far in advance. Overall this project helped me get more comfortable using pandas, Matplotlib, and Seaborn to analyze a larger dataset.
+This project helped me practice importing data, cleaning missing values, filtering, grouping, and creating graphs with python libraries. I learned that booking lead time has some relationship with cancellations and that people sometimes make hotel reservations way farther in advance that I previously thought. Overall this project helped me get more comfortable using pandas, seaborn and especially matplotlib to analyze data .
